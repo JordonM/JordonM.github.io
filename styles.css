@@ -7,7 +7,9 @@ h2{
 }
 h5{
     text-align: center;
-    font-family: Courier;
+    font-family: "Geneva";
+    font-weight: bold;
+    text-shadow: 3px 2px #ff0000;
 }
 
 
@@ -25,9 +27,16 @@ body {
     background-color: grey;
 }
 ul {
-    font-family: Lucida;
+    font-family: "Lucida";
+    text-align: center;
+    font-weight: bold;
 }
 li {
-    font-family: Lucida;
+    font-family: "Lucida";
+    text-align: center;
+    
 }
-
+a {
+    text-align: center;
+    font-family: "Courier";
+}
